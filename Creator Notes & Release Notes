@@ -1,0 +1,33 @@
+Note 1 & 0.1 Release note - September 20th 22:41 Brasilia Time Zone
+
+Now starting a new development stage, switching to 32 bits
+
+But before that, i'm going to release the Pre-Beta Build 2026-9_01 (1st Build of September 2026).
+Do not expect much of it because the only thing it does is "display text", no keyboard/mouse input. just TEXT (it only displays "Booting CrystalOS")
+
+But from Pre-Beta Build 2026-9_03 on, it will throw away just being a text operating system, it will get a "window type of terminal" which you can type commands such as
+
+  help = command list
+  version = CrystalOS Pre-Beta Build 2026-9_0X, compiled on September XX, 2026
+  clear = clears terminal
+
+  more commands coming soon!
+
+
+PORTUGUESE TRANSLATION AHEAD
+TRADUÇÃO PARA PORTUGUÊS A FRENTE
+
+Comecei agora um novo estágio de desenvolvimento, mudando pra 32 bits
+
+Mas antes disso, vou lançar a Build Pre-Beta 2026-9_01 (1ª Build de Setembro de 2026).
+Não espere muito dela porque a única coisa que ela faz é só "mostrar texto", não tem entrada de teclado/mouse. só TEXTO (só mostra "Booting CrystalOS" (Inicializando o CrystalOS))
+
+Mas da Build Pre-Beta 2026-9_03 pra frente, ela vai jogar pra casa do chapéu ser um sistema operacional só de texto, vai ter pelo menos uma "janela" que vai ser o terminal, com um fundo pra ficar mais bonitinho, que você pode digitar comandos como
+
+  help = lista de comandos
+  version = Build Pre-Beta do CrystalOS 2026-9_0X, compilada em XX de Setembro de 2026
+  clear = limpa o terminal
+
+  mais comandos em breve!
+
+Fim da nota / End of note
